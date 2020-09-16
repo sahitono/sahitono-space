@@ -1,0 +1,152 @@
+{
+  "itrf": [
+    {
+      "name": "ITRF (Geocentric, GRS80)",
+      "ref": "+proj=geocent +ellps=GRS80 +units=m +no_defs "
+    }
+  ],
+  "tm3": [
+    {
+      "name": "WGS 84 (geographic)",
+      "ref": "+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 46.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=94.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 47.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=97.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 47.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=100.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 48.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=103.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 48.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=106.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 49.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=109.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 49.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=112.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 50.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=115.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 50.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=118.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 51.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=121.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 51.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=124.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 52.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=127.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 52.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=130.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 53.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=133.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 53.2",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=136.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    },
+    {
+      "name": "DGN95 / Indonesia TM-3 zone 54.1",
+      "ref": "+proj=tmerc +lat_0=0 +lon_0=139.5 +k=0.9999 +x_0=200000 +y_0=1500000 +ellps=WGS84 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs "
+    }
+  ],
+  "utm": [
+    {
+      "name": "WGS 84 / UTM zone 46N",
+      "ref": "+proj=utm +zone=46 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 47N",
+      "ref": "+proj=utm +zone=47 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 48N",
+      "ref": "+proj=utm +zone=48 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 49N",
+      "ref": "+proj=utm +zone=49 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 50N",
+      "ref": "+proj=utm +zone=50 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 51N",
+      "ref": "+proj=utm +zone=51 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 52N",
+      "ref": "+proj=utm +zone=52 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 53N",
+      "ref": "+proj=utm +zone=53 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 54N",
+      "ref": "+proj=utm +zone=54 +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 46S",
+      "ref": "+proj=utm +zone=46 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 47S",
+      "ref": "+proj=utm +zone=47 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 48S",
+      "ref": "+proj=utm +zone=48 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 49S",
+      "ref": "+proj=utm +zone=49 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 50S",
+      "ref": "+proj=utm +zone=50 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 51S",
+      "ref": "+proj=utm +zone=51 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 52S",
+      "ref": "+proj=utm +zone=52 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 53S",
+      "ref": "+proj=utm +zone=53 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    },
+    {
+      "name": "WGS 84 / UTM zone 54S",
+      "ref": "+proj=utm +zone=54 +south +ellps=WGS84 +datum=WGS84 +units=m +no_defs "
+    }
+  ]
+}
