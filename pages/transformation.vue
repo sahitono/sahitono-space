@@ -90,7 +90,7 @@ export default class TransformationPage extends Vue {
           xyz.push(coordinate)
         })
         if (!isNaN(xyz[0])) {
-          transformed.push(this.transform(xyz.slice(0, 2)))
+          transformed.push(this.transform(xyz))
         }
       }
     })
