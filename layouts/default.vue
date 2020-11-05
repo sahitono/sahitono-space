@@ -2,6 +2,7 @@
   <a-layout class="layout">
     <a-layout-header
       style="
+        background-color: white;
         display: flex;
         justify-content: center;
         position: fixed;
@@ -10,7 +11,7 @@
       "
     >
       <a-menu
-        theme="dark"
+        theme="light"
         mode="horizontal"
         :default-selected-keys="defaultKey"
         :style="{ lineHeight: '64px' }"
