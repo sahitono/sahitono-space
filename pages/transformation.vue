@@ -25,6 +25,7 @@
         <a-divider orientation="left">Output</a-divider>
         <a-select
           v-model="outputProjection"
+          show-search
           type="flex"
           style="width: 100%; margin-bottom: 0.5rem;"
           :default-value="references[6].ref"
@@ -96,6 +97,10 @@ export default class TransformationPage extends Vue {
     })
     return transformed.join('\n')
   }
+
+  // async mounted(){
+  //   fetch("/proj4_def.json")
+  // }
 }
 </script>
 <style></style>
