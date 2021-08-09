@@ -49,7 +49,7 @@
 <script lang="ts">
 import { Vue, Component } from 'vue-property-decorator'
 import Proj4 from 'proj4'
-import * as RefData from '../proj4_def.json'
+import * as RefData from '~/proj4_def.json'
 
 interface IReferences {
   ref: string

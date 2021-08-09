@@ -18,8 +18,8 @@
     "proj4": "^2.6.2"
   },
   "devDependencies": {
-    "@nuxt/types": "^2.14.0",
-    "@nuxt/typescript-build": "^2.0.2",
+    "@nuxt/types": "^2.15.7",
+    "@nuxt/typescript-build": "^2.1.0",
     "@nuxtjs/eslint-config": "^3.1.0",
     "@nuxtjs/eslint-config-typescript": "^3.0.0",
     "@nuxtjs/eslint-module": "^2.0.0",
@@ -33,6 +33,7 @@
     "less-loader": "^6.2.0",
     "prettier": "^2.0.5",
     "vue-class-component": "^7.2.5",
-    "vue-property-decorator": "^9.0.0"
+    "vue-property-decorator": "^9.0.0",
+    "ts-loader": "^8"
   }
 }

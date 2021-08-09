@@ -17,25 +17,19 @@
         :style="{ lineHeight: '64px' }"
         @click="changePath"
       >
-        <a-menu-item key="1">
-          Home
-        </a-menu-item>
-        <a-menu-item key="2">
-          Transformation
-        </a-menu-item>
-        <a-menu-item key="3">
-          Conversion
-        </a-menu-item>
+        <a-menu-item key="1"> Home </a-menu-item>
+        <a-menu-item key="2"> Transformation </a-menu-item>
+        <a-menu-item key="3"> Conversion </a-menu-item>
       </a-menu>
     </a-layout-header>
-    <a-layout-content style="padding: 0 50px; background-color: #ffffff;">
-      <div :style="{ padding: '6em 24px 24px 24px', minHeight: '100vh' }">
+    <a-layout-content style="padding: 0 50px; background-color: #ffffff">
+      <div :style="{ padding: '6em 24px 24px 24px', minHeight: '90vh' }">
         <Nuxt />
       </div>
     </a-layout-content>
-    <!--    <a-layout-footer style="text-align: center;">-->
-    <!--      Ant Design ©2018 Created by Ant UED-->
-    <!--    </a-layout-footer>-->
+    <a-layout-footer style="text-align: center; background-color: white">
+      Ant Design ©2018 Created by Ant UED
+    </a-layout-footer>
   </a-layout>
 </template>
 
